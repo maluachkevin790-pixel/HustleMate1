@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064377606447",
+    "project_id": "hustlemate-6aa2c",
+    "storage_bucket": "hustlemate-6aa2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064377606447:android:a7d69a13284e4ccb5a41da",
+        "android_client_info": {
+          "package_name": "com.example.hustlemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd5p-vUfUU1FUHj9P87l6ALJ7v3eO3V0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Use a modern Material 3 parent to ensure compatibility with Compose components -->
+    <style name="Theme.HustleMate" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
